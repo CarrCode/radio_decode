@@ -31,5 +31,5 @@ The value proposition for harnessing emergency dispatch data is substantial and 
 - `Where are emergency services going? Patterns?`
 - `Is there a need for data redundancy using STT and NLP in the case that other cataloging methods fail? During widespread power outages this become doubly important.`
 - `Are the radio calls being converted to human-readable spreadsheets of data for lay people to analyze on common laptops or phones?`
-
+---
 The final application will be built using Flask and will leverage the Soundflower library to pull audio streams from up to 64 channels of emergency radio. This allows for far greater data acquisition times. I am also interested in using Docker to containerize the frameworks, various servers, service worker processes, and other dependencies so that anyone can swap my crappy code with stuff that is smarter. However, I am only a novice at Docker and feel like a lost lamb at the moment. Such an approach would allow the application to run from a local server on the computer or be used as a progressive web application (in time) that is smaller in size and connects to a remote server via satelite. This particular notebook is simply proof of concept. The application still needs to be built. Librosa and Parselmouth will be used for analysis and feature extraction.
