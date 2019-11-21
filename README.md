@@ -15,7 +15,7 @@ I am currently seeking both monetary and coding assistance in the effort. This p
 
 ### Get Involved
 
-Actively seeking technical insights, code snippets, and information leads to support a project initiation phase. This project is flying under the banner of Humanitarian AI, an amazing group that is building an awesome data acquisition tools. It is currently being led by Brent Phillips.
+Actively seeking technical insights, code snippets, and information leads to support a project initiation phase. This project is flying under the banner of Humanitarian AI, an amazing group based out of Cambridge, Massachusetts that is building data acquisition tools that are enormous in scope. That effort is currently being led by Brent Phillips.
 
 ### Background
 
