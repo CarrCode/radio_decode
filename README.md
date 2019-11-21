@@ -8,7 +8,7 @@ I am currently seeking both monetary and coding assistance in the effort. This p
 - `Pull audio streams from multiple channels at once, using Flask as the backend and an OS-agnostic webView as the front end`
 - `Test various neural network models with per sample, audio feature extraction data.`
 - `Turn the audio arrays into blocks with manageable batch sizes to be fed to a STT service for transcripts.`
-- `Use NLP techniques like NER and Regex, but feed them into a Naive Bayes model to determine address vs. not-address.'
+- `Use NLP techniques like NER and Regex, but feed them into a Naive Bayes model to determine address vs. not-address.`
 - `Create an "intelligent" agent to clean and prepare the data for processing.`
 - `Batch geocode.`
 - `Map`
