@@ -1,5 +1,26 @@
 # Decoding Emergency Radio & Mapping Areas of Need
 ---
+
+I am currently seeking both monetary and coding assistance on this project.
+
+This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from simultaneous emergency radio sources at once, automatically convert those streams into transcripts, use NLP and ML to extract address data, and then map those areas of need.
+
+### Project Milestones:
+
+- `Pull audio streams from multiple channels at once, using Flask as the backend and an OS-agnostic webView as the front end`
+- `Test various neural network models with per sample, audio feature extraction data.`
+- `Turn the audio arrays into blocks with manageable batch sizes to be fed to a STT service for transcripts.`
+- `Use NLP techniques like NER and Regex, but feed them into a Naive Bayes model to determine address vs. not-address.'
+- `Create an "intelligent" agent to clean and prepare the data for processing.`
+- `Batch geocode.`
+- `Map`
+
+### Get Involved
+
+Actively seeking technical insights, code snippets, and information leads to support a project initiation phase. This project is currently flying under the banner of Humanitarian AI, a 
+
+### Background
+
 This notebook started life as a `General Assembly` project, with contributions from myself, Patrick Cavins, Remy Shea, Maithili Joshi, Charles Rice, Matt Brems, and numerous other online educators, scientists, and coders.
 
 ##### Whenever there is a disaster, especially a large one where FEMA is involved, logistics can be overwhelming. During National and International emergencies it is crucial FEMA identify the areas in need. Not only does FEMA require an understanding of the nature of emergencies, they need to be able to map where those emergencies are taking place. Furthermore, it is imperative to provide failsafes and redundancies for crucial information such as emergency radio. That is why transcriptions and recordings are necessary. These are assumptions we will make for the sake of this project. 
