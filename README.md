@@ -1,7 +1,7 @@
 # Decoding Emergency Radio & Mapping Areas of Need
 ---
 
-I am currently seeking both monetary and coding assistance in the effort. This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from multiple and simultaneous emergency radio sources at once, automatically convert those streams into transcripts, use NLP and ML to extract address data, and then map those areas of need.
+I am currently seeking both monetary and coding assistance in the effort. This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from multiple and simultaneous emergency radio sources, start and stop a recording process based on sound classification models, convert those audio streams into transcripts, use NLP and ML to extract address data, and then map those areas of need.
 
 ### Project Milestones:
 
