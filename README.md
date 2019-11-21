@@ -17,7 +17,7 @@ I am currently seeking both monetary and coding assistance in the effort. This p
 Actively seeking technical insights, code snippets, and information leads to support a project initiation phase. This project is flying under the banner of Humanitarian AI, an amazing group based out of Cambridge, Massachusetts that is building data acquisition tools that are enormous in scope. That effort is currently being led by Brent Phillips.
 
 # Background
----
+
 ##### This notebook started life as a `General Assembly` project, with contributions from myself, Patrick Cavins, Remy Shea, Maithili Joshi, Charles Rice, Matt Brems, and numerous other online educators, scientists, and coders.
 
 Whenever there is a disaster, especially a large one where FEMA is involved, logistics can be overwhelming. During National and International emergencies it is crucial FEMA identify the areas in need. Not only does FEMA require an understanding of the nature of emergencies, they need to be able to map where those emergencies are taking place. Furthermore, it is imperative to provide failsafes and redundancies for crucial information such as emergency radio. That is why transcriptions and recordings are necessary. These are assumptions we will make for the sake of this project. 
