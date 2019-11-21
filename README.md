@@ -1,9 +1,7 @@
 # Decoding Emergency Radio & Mapping Areas of Need
 ---
 
-I am currently seeking both monetary and coding assistance on this project.
-
-This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from simultaneous emergency radio sources at once, automatically convert those streams into transcripts, use NLP and ML to extract address data, and then map those areas of need.
+I am currently seeking both monetary and coding assistance in the effort. This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from multiple and simultaneous emergency radio sources at once, automatically convert those streams into transcripts, use NLP and ML to extract address data, and then map those areas of need.
 
 ### Project Milestones:
 
@@ -17,7 +15,7 @@ This project aims to be a mass data acquisition and data rendundancy tool for Hu
 
 ### Get Involved
 
-Actively seeking technical insights, code snippets, and information leads to support a project initiation phase. This project is currently flying under the banner of Humanitarian AI, a 
+Actively seeking technical insights, code snippets, and information leads to support a project initiation phase. This project is flying under the banner of Humanitarian AI, an amazing group that is building an awesome data acquisition tools. It is currently being led by Brent Phillips.
 
 ### Background
 
