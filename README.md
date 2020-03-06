@@ -1,12 +1,11 @@
 # Decoding Emergency Radio & Mapping Areas of Need
 
-I am currently seeking both monetary and coding assistance in the effort. This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from multiple and simultaneous emergency radio sources, start and stop a recording process using sound classification, convert audio streams into transcripts, use NLP to extract address data, and then map those areas of need.
+I am currently seeking both monetary and coding assistance in the effort. This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from multiple and simultaneous emergency radio sources, start and stop a 'recording' process to grab audio snippets using sound classification, convert the audio to transcript, use NLP to extract address data, and then map those areas of need.
 
 ### Project Milestones:
 
-- `Pull audio streams from multiple channels at once, using Flask as the backend and an OS-agnostic webView as the front end`
-- `Test various neural network models with audio feature extraction data.`
-- `Turn audio arrays into blocks of manageable batch sizes to be fed to a STT service for transcripts.`
+- `Pull audio streams from multiple channels at once using Flask as the hub.`
+- `Turn audio arrays into blocks of manageable batch sizes and determine the best STT service for transcripts.`
 - `Use NLP techniques like NER and Regex to isolate addresses and feed those strings into a Naive Bayes model to determine address vs. not-address. `
 - `Create an "intelligent" agent to clean and prepare the data for processing.`
 - `Batch geocode.`
@@ -14,7 +13,7 @@ I am currently seeking both monetary and coding assistance in the effort. This p
 
 ### Get Involved
 
-Actively seeking technical insights, code snippets, and information leads to support a project initiation phase. This project is flying under the banner of Humanitarian AI, an amazing group based out of Cambridge, Massachusetts that is building data acquisition tools that are enormous in scope. That effort is currently being led by Brent Phillips.
+Actively seeking technical insights, code, and information leads to support a project initiation phase. This project is simulataneously flying under the banner of Humanitarian AI, an amazing group based out of Cambridge, Mass, and the hope is that this effort will grow. Humanitarian AI is led by Brent Phillips.
 
 # Background
 
@@ -31,5 +30,4 @@ The value proposition for harnessing emergency dispatch data is substantial and 
 - `Where are emergency services going? Patterns?`
 - `Is there a need for data redundancy using STT and NLP in the case that other cataloging methods fail? During widespread power outages this become doubly important.`
 - `Are the radio calls being converted to human-readable spreadsheets of data for lay people to analyze on common laptops or phones?`
----
-The final application will be built using Flask and will leverage the Soundflower library to pull audio streams from up to 64 channels of emergency radio. This allows for far greater data acquisition times. I am also interested in using Docker to containerize the frameworks, various servers, service worker processes, and other dependencies so that anyone can swap my crappy code with stuff that is smarter. However, I am only a novice at Docker and feel like a lost lamb at the moment. Such an approach would allow the application to run from a local server on the computer or be used as a progressive web application (in time) that is smaller in size and connects to a remote server via satelite. This particular notebook is simply proof of concept. The application still needs to be built. Librosa and Parselmouth will be used for analysis and feature extraction.
+- `How quickly is strategy playing out across multiple precincts? Do they have this data?` 
