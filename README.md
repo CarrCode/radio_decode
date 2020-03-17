@@ -1,4 +1,4 @@
-# Decoding Emergency Radio & Mapping Areas of Need
+# Emergency Radio, Sound Classification, NLP Extraction, and Mapping Areas of Need
 
 I am currently seeking both monetary and coding assistance in the effort. This project aims to be a mass data acquisition and data rendundancy tool for Humanitarian AI efforts. It will pull from multiple and simultaneous emergency radio sources, start and stop a 'recording' process to grab audio snippets using sound classification, convert the audio to transcript, use NLP to extract address data, and then map those areas of need.
 
