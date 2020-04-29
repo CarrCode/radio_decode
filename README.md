@@ -30,4 +30,4 @@ The value proposition for harnessing emergency dispatch data is substantial and 
 - `Where are emergency services going? Patterns?`
 - `Is there a need for data redundancy using STT and NLP in the case that other cataloging methods fail? During widespread power outages this become doubly important.`
 - `Are the radio calls being converted to human-readable spreadsheets of data for lay people to analyze on common laptops or phones?`
-- `How quickly is strategy playing out across multiple precincts? Do they have this data?` 
+- `How quickly is strategy playing out across multiple districts? Do they have they all have combined data?` 
